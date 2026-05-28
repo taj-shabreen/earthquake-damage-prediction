@@ -40,3 +40,6 @@ This project predicts earthquake damage severity using machine learning models a
 * Deep learning models
 * GIS integration
 * Real-time disaster analytics
+
+## Additional Notes
+This repository is part of my AI/ML portfolio projects.
